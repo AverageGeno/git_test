@@ -1,1 +1,0 @@
-This is AverageGeno's first git project
