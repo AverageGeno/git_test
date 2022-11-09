@@ -1,1 +1,3 @@
-This is AverageGeno's first project!
+#git_test
+My first Github repo !
+Hello odin !
